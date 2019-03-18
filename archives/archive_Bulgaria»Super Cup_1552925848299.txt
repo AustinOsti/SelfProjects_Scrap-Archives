@@ -1,0 +1,1 @@
+[{"league":"Bulgaria»Super Cup","day":"05 Jul 2018","time":"17:30","game":"Ludogorets-Slavia Sofia","results":"1:0","odds_1":"1.14","odds_X":"7.27","odds_2":"16.26"}]

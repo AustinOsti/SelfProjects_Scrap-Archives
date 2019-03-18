@@ -1,0 +1,25 @@
+{
+  "name": "selfprojects_scrap-archives",
+  "version": "1.0.0",
+  "description": "Scrap Football Results Archives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "archives": "node archives.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinOsti/SelfProjects_Scrap-Archives.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinOsti/SelfProjects_Scrap-Archives/issues"
+  },
+  "homepage": "https://github.com/AustinOsti/SelfProjects_Scrap-Archives#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
