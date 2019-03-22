@@ -1,0 +1,1 @@
+[{"league":"Europe»UEFA Super Cup","day":"15 Aug 2018","time":"19:00","game":"Real Madrid-Atl. Madrid","results":"2:4 ET","odds_1":"2.30","odds_X":"3.34","odds_2":"3.32"}]

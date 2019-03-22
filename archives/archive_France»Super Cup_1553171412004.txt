@@ -1,0 +1,1 @@
+[{"league":"France»Super Cup","day":"04 Aug 2018","time":"12:00","game":"Paris SG-Monaco","results":"4:0","odds_1":"1.66","odds_X":"4.11","odds_2":"4.95"}]

@@ -1,0 +1,1 @@
+[{"league":"Algeria»Algeria Cup","day":"17 Dec 2018","time":"13:00","game":"Hamra Annaba-Village Moussa","results":"0:2","odds_1":"5.14","odds_X":"4.38","odds_2":"1.44"}]

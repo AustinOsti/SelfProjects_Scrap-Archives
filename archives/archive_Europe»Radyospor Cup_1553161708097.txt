@@ -1,0 +1,1 @@
+[{"league":"Europe»Radyospor Cup","day":"10 Jan 2009","time":"16:30","game":"Bursaspor-Werder Bremen","results":"1:0","odds_1":"4.67","odds_X":"3.63","odds_2":"1.60"}]

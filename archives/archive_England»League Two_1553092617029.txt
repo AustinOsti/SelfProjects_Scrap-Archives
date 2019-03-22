@@ -1,0 +1,1 @@
+[{"league":"England»League Two","day":"04 Aug 2018","time":"14:00","game":"Bury-Yeovil","results":"1:0","odds_1":"1.82","odds_X":"3.60","odds_2":"4.52"},{"league":"England»League Two","day":"04 Aug 2018","time":"14:00","game":"Mansfield-Newport Co","results":"3:0","odds_1":"1.87","odds_X":"3.55","odds_2":"4.33"}]

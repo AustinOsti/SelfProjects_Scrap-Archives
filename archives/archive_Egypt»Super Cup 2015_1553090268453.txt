@@ -1,0 +1,1 @@
+[{"league":"Egypt»Super Cup 2015","day":"15 Oct 2015","time":"16:00","game":"Zamalek-Al Ahly","results":"2:3","odds_1":"2.73","odds_X":"3.12","odds_2":"2.50"}]

@@ -1,0 +1,1 @@
+[{"league":"Colombia»Super Cup","day":"27 Jan 2019","time":"20:00","game":"Deportes Tolima-Junior","results":"0:2 pen.","odds_1":"2.79","odds_X":"3.02","odds_2":"2.51"},{"league":"Colombia»Super Cup","day":"24 Jan 2019","time":"00:45","game":"Junior-Deportes Tolima","results":"1:2","odds_1":"1.55","odds_X":"3.65","odds_2":"5.86"}]

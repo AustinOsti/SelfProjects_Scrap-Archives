@@ -1,0 +1,1 @@
+[{"league":"Austria»Regionalliga Play Offs","day":"09 Jun 2015","time":"17:20","game":"A. Klagenfurt-Parndorf","results":"4:1 ET","odds_1":"2.22","odds_X":"3.33","odds_2":"2.82"},{"league":"Austria»Regionalliga Play Offs","day":"05 Jun 2015","time":"17:00","game":"Parndorf-A. Klagenfurt","results":"2:1","odds_1":"2.47","odds_X":"3.33","odds_2":"2.60"}]

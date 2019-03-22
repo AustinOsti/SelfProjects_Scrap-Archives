@@ -1,0 +1,1 @@
+[{"league":"Georgia»Super Cup","day":"24 Feb 2019","time":"12:00","game":"Saburtalo Tbilisi-Torpedo Kutaisi","results":"0:1","odds_1":"2.35","odds_X":"3.26","odds_2":"2.76"}]

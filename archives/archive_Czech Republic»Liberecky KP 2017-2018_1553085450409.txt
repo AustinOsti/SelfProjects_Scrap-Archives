@@ -1,0 +1,1 @@
+[{"league":"Czech Republic»Liberecky KP 2017/2018","day":"12 May 2018","time":"08:30","game":"Velke Hamry-Sedmihorky","results":"2:0","odds_1":"1.10","odds_X":"8.50","odds_2":"13.25"},{"league":"Czech Republic»Liberecky KP 2017/2018","day":"01 May 2018","time":"08:30","game":"Skalice-Semily","results":"10:1","odds_1":"1.10","odds_X":"7.38","odds_2":"15.13"}]

@@ -1,0 +1,1 @@
+[{"league":"Albania»Super Cup","day":"12 Aug 2018","time":"18:00","game":"Skenderbeu-Laci","results":"3:2","odds_1":"2.17","odds_X":"3.28","odds_2":"2.86"}]

@@ -1,0 +1,1 @@
+[{"league":"Czech Republic»Plzensky KP","day":"26 Aug 2018","time":"14:00","game":"Zruc-Vejprnice","results":"2:1","odds_1":"2.27","odds_X":"3.50","odds_2":"2.59"},{"league":"Czech Republic»Plzensky KP","day":"10 Aug 2018","time":"16:30","game":"Rokycany-Petrin Plzen","results":"4:3","odds_1":"1.40","odds_X":"5.04","odds_2":"5.00"}]

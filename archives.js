@@ -1,10 +1,9 @@
 const fs = require('fs');
-const axios = require('axios');
 const cheerio = require('cheerio');
 
 const archiveFile = 'sample.html';
 
-//* option 1 - use fs to retrieve archived results stored an a local file as sample.html
+// use fs to retrieve archived results stored an a local file as sample.html
 let extractData = function(archiveFile) {
 	return new Promise(function(resolve, reject) {		
 		fs.readFile(archiveFile, 'utf-8', function(err, data) {
@@ -16,7 +15,7 @@ let extractData = function(archiveFile) {
 	});
 }
 
-//parse the HTML with Cheerio.js
+// parse the HTML with Cheerio.js
 let getData = function(html){
 	return new Promise(function(resolve, reject) {		
 		data = [];	
@@ -35,7 +34,7 @@ let getData = function(html){
 			if (fld_1.length > 0 && results.length > 0) {
 				data.push({
 					league: headings[0].replace('Soccer» ', '').trim(),
-					day: day.replace('Yesterday, 17 Mar', '17 Mar 2019').trim(),
+					day: day.replace('Yesterday, 21 Mar', '21 Mar 2019').replace('Today, 22 Mar', '22 Mar 2019').trim(),
 					time: fld_1,	
 					game: $(elem).children("td:nth-child(2)").text().replace(' - ', '-').trim(),	
 					results: results.trim(),	
@@ -49,27 +48,25 @@ let getData = function(html){
 	});
 }
 
+// write data into a file
 let writeDataFile = function(spreadData) {
 	return new Promise(function(resolve, reject) {
 		d = new Date().getTime();
-		let saveFile = './archives/archive_'+ String(spreadData[0].league) + '_' + String(d)+ '.txt';
+		fileName = String(spreadData[0].league).replace('/', '-');
+		let saveFile = './archives/archive_'+ fileName + '_' + String(d) + '.txt';
 		const file = fs.createWriteStream(saveFile);
-		
-		file.write(JSON.stringify(data));
+/*		
+		file.write(JSON.stringify(data));		
 		file.end();		
+*/		
+		fs.writeFile(saveFile, JSON.stringify(spreadData), function(err) {
+			if(err) {
+				reject(err);
+			}
+		});		
 		console.log(String(spreadData[0].league) + " Done!");
-	});	
-}
-
-let deleteDataFile = function(fileToDelete) {
-	return new Promise(function(resolve, reject) {	
-		fs.unlink(fileToDelete, function (err) {
-			if (err) throw err;
-			// if no error, file has been deleted successfully
-			console.log('Sample file deleted & process complete!');
-		});	
 		resolve();
-	});
+	});	
 }
 
 var promise = extractData(archiveFile);
@@ -82,17 +79,3 @@ promise.then(function(data) {
 .catch(function (err) {	
 	console.log(err);
 });
-
-/* option2 - for current results, use axios to retrive results ... under WIP ...
-axios.get(url)
-.then(function(response){
-	d = new Date();
-	getData(response.data, d);
-//	console.log(response.data);	
-})
-.catch(function(error){
-	console.log(error);
-}); 
-*/
-
-

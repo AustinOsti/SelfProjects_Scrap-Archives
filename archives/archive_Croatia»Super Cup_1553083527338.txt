@@ -1,0 +1,1 @@
+[{"league":"Croatia»Super Cup","day":"11 Jul 2014","time":"18:30","game":"Rijeka-D. Zagreb","results":"2:1","odds_1":"2.97","odds_X":"3.10","odds_2":"2.40"}]

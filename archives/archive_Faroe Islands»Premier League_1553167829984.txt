@@ -1,0 +1,1 @@
+[{"league":"Faroe Islands»Premier League","day":"17 Mar 2019","time":"15:00","game":"HB Torshavn-NSI Runavik","results":"1:1","odds_1":"1.81","odds_X":"3.64","odds_2":"3.61"},{"league":"Faroe Islands»Premier League","day":"10 Mar 2019","time":"15:00","game":"TB/FCS/Royn-AB Argir","results":"2:1","odds_1":"1.79","odds_X":"3.44","odds_2":"3.91"}]

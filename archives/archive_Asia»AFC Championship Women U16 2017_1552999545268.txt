@@ -1,0 +1,1 @@
+[{"league":"Asia»AFC Championship Women U16 2017","day":"13 Sep 2017","time":"10:00","game":"Laos U16 W-China U16 W","results":"0:7","odds_1":"-","odds_X":"-","odds_2":"-"},{"league":"Asia»AFC Championship Women U16 2017","day":"10 Sep 2017","time":"10:00","game":"China U16 W-South Korea U16 W","results":"2:2","odds_1":"-","odds_X":"-","odds_2":"-"}]

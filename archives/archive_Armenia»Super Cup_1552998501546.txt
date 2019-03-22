@@ -1,0 +1,1 @@
+[{"league":"Armenia»Super Cup","day":"29 Jul 2018","time":"14:00","game":"Alashkert-Gandzasar","results":"2:0","odds_1":"2.00","odds_X":"3.20","odds_2":"3.20"}]

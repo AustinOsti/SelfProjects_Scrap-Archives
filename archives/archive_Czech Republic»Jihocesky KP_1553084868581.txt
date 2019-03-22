@@ -1,0 +1,1 @@
+[{"league":"Czech Republic»Jihocesky KP","day":"12 Aug 2018","time":"08:30","game":"Trebon-Protivin","results":"1:1","odds_1":"1.99","odds_X":"3.74","odds_2":"2.87"}]
