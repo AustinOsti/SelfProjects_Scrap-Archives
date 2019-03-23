@@ -1,0 +1,1 @@
+[{"league":"Hungary»Super Cup","day":"05 Jul 2015","time":"18:15","game":"MOL Vidi-Ferencvaros","results":"0:3","odds_1":"2.36","odds_X":"3.27","odds_2":"2.90"}]

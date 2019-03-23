@@ -1,0 +1,1 @@
+[{"league":"Ireland»Super Cup","day":"09 Feb 2019","time":"17:30","game":"Cork City-Dundalk","results":"1:2","odds_1":"4.38","odds_X":"3.28","odds_2":"1.84"}]

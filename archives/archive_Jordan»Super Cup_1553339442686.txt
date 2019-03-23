@@ -1,0 +1,1 @@
+[{"league":"Jordan»Super Cup","day":"17 Aug 2018","time":"16:00","game":"Al Wehdat-Al Jazeera Amman","results":"2:1","odds_1":"1.92","odds_X":"3.49","odds_2":"3.69"}]

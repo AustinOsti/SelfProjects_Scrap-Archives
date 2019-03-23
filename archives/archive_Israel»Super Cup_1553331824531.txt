@@ -1,0 +1,1 @@
+[{"league":"Israel»Super Cup","day":"28 Jul 2018","time":"18:00","game":"Hapoel Haifa-H. Beer Sheva","results":"2:1 pen.","odds_1":"8.75","odds_X":"4.73","odds_2":"1.34"}]

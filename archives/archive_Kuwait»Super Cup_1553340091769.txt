@@ -1,0 +1,1 @@
+[{"league":"Kuwait»Super Cup","day":"18 Aug 2018","time":"17:15","game":"Al Kuwait-Al Qadisiya","results":"1:2","odds_1":"2.19","odds_X":"3.48","odds_2":"2.81"}]

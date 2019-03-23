@@ -1,0 +1,1 @@
+[{"league":"Latvia»Super Cup","day":"09 Mar 2013","time":"12:00","game":"FC Daugava-Skonto","results":"4:1","odds_1":"1.13","odds_X":"8.15","odds_2":"14.50"}]

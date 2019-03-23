@@ -1,0 +1,1 @@
+[{"league":"Lebanon»Super Cup","day":"02 Sep 2018","time":"14:00","game":"Al Ahed-Nejmeh SC","results":"1:0","odds_1":"1.78","odds_X":"3.59","odds_2":"3.58"}]
