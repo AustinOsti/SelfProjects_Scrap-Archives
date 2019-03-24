@@ -1,0 +1,1 @@
+[{"league":"Mexico»Campeón de Campeones","day":"16 Jul 2018","time":"01:15","game":"U.A.N.L.- Tigres-Santos Laguna","results":"4:0","odds_1":"2.20","odds_X":"3.20","odds_2":"3.28"}]

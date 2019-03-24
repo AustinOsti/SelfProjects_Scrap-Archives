@@ -34,7 +34,7 @@ let getData = function(html){
 			if (fld_1.length > 0 && results.length > 0) {
 				data.push({
 					league: headings[0].replace('Soccer» ', '').trim(),
-					day: day.replace('Yesterday, 22 Mar', '22 Mar 2019').replace('Today, 23 Mar', '23 Mar 2019').trim(),
+					day: day.replace('Yesterday, 23 Mar', '23 Mar 2019').replace('Today, 24 Mar', '24 Mar 2019').trim(),
 					time: fld_1,	
 					game: $(elem).children("td:nth-child(2)").text().replace(' - ', '-').trim(),	
 					results: results.trim(),	
@@ -53,7 +53,7 @@ let writeDataFile = function(spreadData) {
 	return new Promise(function(resolve, reject) {
 		d = new Date().getTime();
 		fileName = String(spreadData[0].league).replace('/', '-');
-		let saveFile = './archives/archive_'+ fileName + '_' + String(d) + '.txt';
+		saveFile = './archives/archive_'+ fileName + '_' + String(d) + '.txt';
 /*		
 		const file = fs.createWriteStream(saveFile);		
 		file.write(JSON.stringify(data));		

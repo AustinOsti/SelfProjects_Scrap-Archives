@@ -1,0 +1,1 @@
+[{"league":"Moldova»Super Cup","day":"10 Mar 2019","time":"14:00","game":"Sheriff Tiraspol-Milsami","results":"0:1 pen.","odds_1":"1.36","odds_X":"4.22","odds_2":"7.71"}]
