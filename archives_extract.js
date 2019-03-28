@@ -1,9 +1,9 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
 
-const archiveFile = 'sample.html';
+const archiveFile = 'extract.html';
 
-// use fs to retrieve archived results stored an a local file as sample.html
+// use fs to retrieve archived results stored in a local file as sample.html
 let extractData = function(archiveFile) {
 	return new Promise(function(resolve, reject) {		
 		fs.readFile(archiveFile, 'utf-8', function(err, data) {
@@ -34,7 +34,7 @@ let getData = function(html){
 			if (fld_1.length > 0 && results.length > 0) {
 				data.push({
 					league: headings[0].replace('Soccer» ', '').trim(),
-					day: day.replace('Yesterday, 23 Mar', '23 Mar 2019').replace('Today, 24 Mar', '24 Mar 2019').trim(),
+					day: day.replace('Yesterday, 27 Mar', '27 Mar 2019').replace('Today, 28 Mar', '28 Mar 2019').trim(),
 					time: fld_1,	
 					game: $(elem).children("td:nth-child(2)").text().replace(' - ', '-').trim(),	
 					results: results.trim(),	

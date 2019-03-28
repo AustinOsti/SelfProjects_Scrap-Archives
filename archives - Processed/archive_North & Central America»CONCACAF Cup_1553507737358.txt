@@ -1,0 +1,1 @@
+[{"league":"North & Central America»CONCACAF Cup","day":"11 Oct 2015","time":"01:30","game":"Mexico-USA","results":"3:2 ET","odds_1":"2.12","odds_X":"3.34","odds_2":"3.44"}]

@@ -1,0 +1,1 @@
+[{"league":"North Macedonia»Super Cup","day":"23 Sep 2015","time":"18:00","game":"Vardar-Rabotnicki","results":"2:1 pen.","odds_1":"1.57","odds_X":"3.90","odds_2":"4.91"}]
