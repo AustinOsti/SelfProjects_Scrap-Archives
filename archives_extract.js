@@ -34,7 +34,7 @@ let getData = function(html){
 			if (fld_1.length > 0 && results.length > 0) {
 				data.push({
 					league: headings[0].replace('Soccer» ', '').trim(),
-					day: day.replace('Yesterday, 27 Mar', '27 Mar 2019').replace('Today, 28 Mar', '28 Mar 2019').trim(),
+					day: day.replace('Yesterday, 28 Mar', '28 Mar 2019').replace('Today, 29 Mar', '29 Mar 2019').trim(),
 					time: fld_1,	
 					game: $(elem).children("td:nth-child(2)").text().replace(' - ', '-').trim(),	
 					results: results.trim(),	

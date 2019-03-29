@@ -1,0 +1,1 @@
+[{"league":"Poland»Super Cup","day":"14 Jul 2018","time":"18:00","game":"Legia-Arka Gdynia","results":"2:3","odds_1":"1.52","odds_X":"3.97","odds_2":"6.75"}]

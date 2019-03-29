@@ -1,5 +1,6 @@
 const fs = require('fs');
 const archiveFolder = './archives/';
+const archivesPending = './archives - Pending/archivedata';
 
 let fileNames = [];
 let archiveData = [];
@@ -55,7 +56,7 @@ let writeDataFile = function(archiveData) {
 		storeData = [];
 		d = new Date().getTime();
 		
-		saveFile = './archives/archivedata'+ '_' + String(d) + '.txt';	
+		saveFile = archivesPending + '_' + String(d) + '.txt';	
 		fs.writeFile(saveFile, JSON.stringify(archiveData), function(err) {
 			if(err) {
 				reject(err);

@@ -1,0 +1,1 @@
+[{"league":"Norway»Super Cup","day":"17 Mar 2019","time":"15:00","game":"Rosenborg-Molde","results":"postp.","odds_1":"2.33","odds_X":"3.51","odds_2":"2.89"}]

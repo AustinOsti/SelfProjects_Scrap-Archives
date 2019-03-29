@@ -1,0 +1,1 @@
+[{"league":"Romania»Super Cup","day":"14 Jul 2018","time":"17:30","game":"CFR Cluj-U Craiova 1948 CS","results":"1:0","odds_1":"2.29","odds_X":"3.09","odds_2":"3.24"}]
