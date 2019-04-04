@@ -1,1 +1,0 @@
-[{"league":"Azerbaijan»Super Cup 2013","day":"23 Oct 2013","time":"10:00","game":"Khazar Lenkoran-Neftci Baku","results":"2:1","odds_1":"3.25","odds_X":"3.10","odds_2":"2.02"}]

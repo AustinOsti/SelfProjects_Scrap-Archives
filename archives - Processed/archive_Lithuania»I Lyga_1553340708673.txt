@@ -1,1 +1,0 @@
-[{"league":"Lithuania»I Lyga","day":"22 Mar 2019","time":"17:00","game":"Stumbras 2-Vilniaus Vytis","results":"0:2","odds_1":"-","odds_X":"-","odds_2":"-"},{"league":"Lithuania»I Lyga","day":"22 Mar 2019","time":"13:30","game":"Dziugas Telsiai-Kupiskis","results":"1:0","odds_1":"1.18","odds_X":"7.00","odds_2":"8.70"}]

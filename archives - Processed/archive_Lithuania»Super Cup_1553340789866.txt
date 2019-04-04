@@ -1,1 +1,0 @@
-[{"league":"Lithuania»Super Cup","day":"24 Feb 2019","time":"13:00","game":"Suduva-Zalgiris","results":"2:0","odds_1":"2.37","odds_X":"3.40","odds_2":"2.72"}]

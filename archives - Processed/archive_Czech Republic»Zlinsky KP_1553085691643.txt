@@ -1,1 +1,0 @@
-[{"league":"Czech Republic»Zlinsky KP","day":"02 Nov 2018","time":"17:30","game":"Batov-Borsice","results":"12:1","odds_1":"1.03","odds_X":"17.00","odds_2":"28.00"}]

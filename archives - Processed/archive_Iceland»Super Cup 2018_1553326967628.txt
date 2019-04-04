@@ -1,1 +1,0 @@
-[{"league":"Iceland»Super Cup 2018","day":"19 Apr 2018","time":"17:00","game":"Valur-Vestmannaeyjar","results":"2:1","odds_1":"1.25","odds_X":"5.60","odds_2":"9.06"}]

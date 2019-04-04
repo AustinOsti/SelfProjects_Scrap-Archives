@@ -1,1 +1,0 @@
-[{"league":"England»FA Community Shield","day":"05 Aug 2018","time":"14:00","game":"Chelsea-Manchester City","results":"0:2","odds_1":"4.02","odds_X":"3.75","odds_2":"1.93"}]

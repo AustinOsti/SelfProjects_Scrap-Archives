@@ -1,1 +1,0 @@
-[{"league":"Belgium»Super Cup","day":"22 Jul 2018","time":"18:00","game":"Club Brugge KV-St. Liege","results":"2:1","odds_1":"2.02","odds_X":"3.57","odds_2":"3.58"}]

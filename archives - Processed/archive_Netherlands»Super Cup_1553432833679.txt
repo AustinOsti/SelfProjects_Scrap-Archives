@@ -1,1 +1,0 @@
-[{"league":"Netherlands»Super Cup","day":"04 Aug 2018","time":"16:00","game":"PSV-Feyenoord","results":"0:1 pen.","odds_1":"1.98","odds_X":"3.81","odds_2":"3.52"}]

@@ -1,1 +1,0 @@
-[{"league":"Brazil»Campeonato Sul-Matogrossense","day":"28 Feb 2019","time":"00:30","game":"Uniao-Aguia Negra","results":"0:1","odds_1":"3.00","odds_X":"3.30","odds_2":"2.15"},{"league":"Brazil»Campeonato Sul-Matogrossense","day":"20 Feb 2019","time":"23:30","game":"Novoperario-Operario de Dourados","results":"4:0","odds_1":"2.12","odds_X":"3.27","odds_2":"2.94"}]

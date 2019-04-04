@@ -1,1 +1,0 @@
-[{"league":"Northern Ireland»Charity Shield 2016","day":"30 Jul 2016","time":"14:00","game":"Glenavon-Crusaders","results":"1:0","odds_1":"3.28","odds_X":"3.45","odds_2":"2.07"}]

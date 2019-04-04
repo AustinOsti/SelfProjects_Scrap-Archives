@@ -1,1 +1,0 @@
-[{"league":"Austria»2. Liga","day":"27 Jul 2018","time":"17:10","game":"Neustadt-BW Linz","results":"0:2","odds_1":"1.77","odds_X":"3.71","odds_2":"4.29"},{"league":"Austria»2. Liga","day":"27 Jul 2018","time":"17:00","game":"Vorwarts Steyr-Ried","results":"1:1","odds_1":"4.06","odds_X":"3.87","odds_2":"1.77"}]

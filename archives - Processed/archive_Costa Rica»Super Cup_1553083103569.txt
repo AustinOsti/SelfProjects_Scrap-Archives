@@ -1,1 +1,0 @@
-[{"league":"Costa Rica»Super Cup","day":"22 Jul 2012","time":"18:00","game":"Alajuelense-Herediano","results":"2:0","odds_1":"2.25","odds_X":"3.23","odds_2":"2.85"}]

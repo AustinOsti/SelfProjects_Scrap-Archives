@@ -1,1 +1,0 @@
-[{"league":"Czech Republic»MOL Cup","day":"28 Jul 2018","time":"15:00","game":"Hermanice-Odra Petrkovice","results":"3:5","odds_1":"6.36","odds_X":"5.89","odds_2":"1.30"},{"league":"Czech Republic»MOL Cup","day":"28 Jul 2018","time":"14:00","game":"Hranice-Usti","results":"5:4 ET","odds_1":"3.54","odds_X":"4.43","odds_2":"1.68"}]

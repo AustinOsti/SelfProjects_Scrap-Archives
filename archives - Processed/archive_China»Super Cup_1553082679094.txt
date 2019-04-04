@@ -1,1 +1,0 @@
-[{"league":"China»Super Cup","day":"23 Feb 2019","time":"11:35","game":"Shanghai SIPG-Beijing Guoan","results":"2:0","odds_1":"2.27","odds_X":"3.58","odds_2":"2.83"}]

@@ -1,1 +1,0 @@
-[{"league":"Czech Republic»Super Cup","day":"18 Jul 2015","time":"17:15","game":"Plzen-Liberec","results":"2:1","odds_1":"1.44","odds_X":"4.39","odds_2":"6.63"}]

@@ -1,1 +1,0 @@
-[{"league":"Algeria»Super Cup","day":"01 Nov 2018","time":"16:00","game":"Constantine-Bel Abbes","results":"0:1","odds_1":"1.93","odds_X":"3.05","odds_2":"4.19"}]

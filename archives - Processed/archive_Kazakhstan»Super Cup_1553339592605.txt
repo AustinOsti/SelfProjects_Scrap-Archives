@@ -1,1 +1,0 @@
-[{"league":"Kazakhstan»Super Cup","day":"03 Mar 2019","time":"09:00","game":"FC Astana-K. Almaty","results":"2:0","odds_1":"2.22","odds_X":"3.09","odds_2":"3.04"}]

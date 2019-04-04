@@ -1,1 +1,0 @@
-[{"league":"Belarus»Super Cup","day":"02 Mar 2019","time":"12:00","game":"BATE-Brest","results":"1:3","odds_1":"2.11","odds_X":"3.34","odds_2":"3.25"}]

@@ -1,1 +1,0 @@
-[{"league":"Europe»City of Guimaraes trophy 2009","day":"02 Aug 2009","time":"20:15","game":"Guimaraes-Benfica","results":"0:2","odds_1":"3.36","odds_X":"3.29","odds_2":"2.04"}]

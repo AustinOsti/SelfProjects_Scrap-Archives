@@ -1,1 +1,0 @@
-[{"league":"Albania»First Division","day":"23 Feb 2019","time":"13:00","game":"Dinamo Tirana-Burreli","results":"0:1","odds_1":"-","odds_X":"-","odds_2":"-"},{"league":"Albania»First Division","day":"16 Feb 2019","time":"13:00","game":"Korabi Peshkopi-Dinamo Tirana","results":"1:0","odds_1":"-","odds_X":"-","odds_2":"-"}]

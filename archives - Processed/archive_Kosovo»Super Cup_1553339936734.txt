@@ -1,1 +1,0 @@
-[{"league":"Kosovo»Super Cup","day":"13 Aug 2018","time":"18:00","game":"Drita-Prishtina","results":"2:1","odds_1":"2.52","odds_X":"2.96","odds_2":"2.61"}]

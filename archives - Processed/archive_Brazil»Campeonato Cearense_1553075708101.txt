@@ -1,1 +1,0 @@
-[{"league":"Brazil»Campeonato Cearense","day":"05 Jan 2019 - First stage","time":"19:00","game":"Ferroviario-Atletico-CE","results":"2:3","odds_1":"1.58","odds_X":"3.74","odds_2":"5.22"},{"league":"Brazil»Campeonato Cearense","day":"05 Jan 2019 - First stage","time":"19:00","game":"Horizonte-Guarany","results":"1:1","odds_1":"1.64","odds_X":"3.90","odds_2":"4.58"}]

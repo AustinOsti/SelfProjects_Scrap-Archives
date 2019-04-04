@@ -1,1 +1,0 @@
-[{"league":"Estonia»Super Cup","day":"03 Mar 2019","time":"11:00","game":"Kalju-Levadia","results":"3:2","odds_1":"2.69","odds_X":"3.39","odds_2":"2.43"}]

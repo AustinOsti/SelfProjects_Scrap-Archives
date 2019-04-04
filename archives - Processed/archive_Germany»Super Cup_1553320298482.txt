@@ -1,1 +1,0 @@
-[{"league":"Germany»Super Cup","day":"12 Aug 2018","time":"18:30","game":"Eintracht Frankfurt-Bayern Munich","results":"0:5","odds_1":"9.38","odds_X":"5.66","odds_2":"1.32"}]

@@ -1,1 +1,0 @@
-[{"league":"Moldova»Divizia Nationala","day":"17 Mar 2019","time":"12:30","game":"Milsami-Sfintul","results":"0:3","odds_1":"1.50","odds_X":"4.18","odds_2":"5.19"},{"league":"Moldova»Divizia Nationala","day":"16 Mar 2019","time":"13:00","game":"Zimbru Chisinau-Petrocub","results":"0:1","odds_1":"2.98","odds_X":"3.47","odds_2":"2.10"}]

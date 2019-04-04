@@ -1,1 +1,0 @@
-[{"league":"Qatar»Sheikh Jassim Cup","day":"01 Aug 2018","time":"16:00","game":"Al Rayyan-Al-Duhail","results":"2:1 pen.","odds_1":"5.55","odds_X":"4.78","odds_2":"1.43"}]

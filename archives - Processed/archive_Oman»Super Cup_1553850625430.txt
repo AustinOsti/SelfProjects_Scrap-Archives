@@ -1,1 +1,0 @@
-[{"league":"Oman»Super Cup","day":"10 Aug 2018","time":"15:00","game":"Al Suwaiq-Al Nasr","results":"0:1 pen.","odds_1":"3.10","odds_X":"3.43","odds_2":"2.09"}]

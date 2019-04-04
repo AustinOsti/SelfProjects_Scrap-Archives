@@ -1,1 +1,0 @@
-[{"league":"Nigeria»NPFL Pre-season","day":"15 Dec 2017","time":"16:00","game":"Kano Pillars-MFM FC","results":"1:1","odds_1":"2.20","odds_X":"3.06","odds_2":"3.26"},{"league":"Nigeria»NPFL Pre-season","day":"11 Dec 2017","time":"14:00","game":"Plateau United-Enyimba","results":"1:1","odds_1":"2.52","odds_X":"2.90","odds_2":"2.78"}]

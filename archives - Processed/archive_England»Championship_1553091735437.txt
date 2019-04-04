@@ -1,1 +1,0 @@
-[{"league":"England»Championship","day":"04 Aug 2018","time":"14:00","game":"Wigan-Sheffield Wed","results":"3:2","odds_1":"2.09","odds_X":"3.33","odds_2":"3.80"},{"league":"England»Championship","day":"03 Aug 2018","time":"19:00","game":"Reading-Derby","results":"1:2","odds_1":"3.73","odds_X":"3.31","odds_2":"2.15"}]

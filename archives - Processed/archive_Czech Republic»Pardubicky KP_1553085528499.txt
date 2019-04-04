@@ -1,1 +1,0 @@
-[{"league":"Czech Republic»Pardubicky KP","day":"14 Sep 2018","time":"14:30","game":"Svitavy-Ceska Trebova","results":"2:0","odds_1":"2.79","odds_X":"5.01","odds_2":"1.81"}]

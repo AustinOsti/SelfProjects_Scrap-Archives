@@ -1,1 +1,0 @@
-[{"league":"Italy»Super Cup","day":"16 Jan 2019","time":"17:30","game":"Juventus-AC Milan","results":"1:0","odds_1":"1.50","odds_X":"3.97","odds_2":"7.67"}]

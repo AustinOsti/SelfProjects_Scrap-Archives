@@ -1,1 +1,0 @@
-[{"league":"Chile»Super Cup 2018","day":"26 Jan 2018","time":"22:00","game":"Colo Colo-S. Wanderers","results":"3:0","odds_1":"1.49","odds_X":"4.43","odds_2":"5.94"}]

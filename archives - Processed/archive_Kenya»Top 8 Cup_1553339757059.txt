@@ -1,1 +1,0 @@
-[{"league":"Kenya»Top 8 Cup","day":"16 Oct 2016","time":"12:00","game":"Muhoroni-Gor Mahia","results":"1:0","odds_1":"-","odds_X":"-","odds_2":"-"},{"league":"Kenya»Top 8 Cup","day":"19 Jun 2016","time":"11:00","game":"Ulinzi Stars-Muhoroni","results":"1:1","odds_1":"1.83","odds_X":"3.10","odds_2":"4.00"}]

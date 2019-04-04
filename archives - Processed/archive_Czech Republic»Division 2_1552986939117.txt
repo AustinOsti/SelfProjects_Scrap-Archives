@@ -1,1 +1,0 @@
-[{"league":"Czech Republic»Division 2","day":"20 Jul 2018","time":"17:00","game":"Znojmo-Varnsdorf","results":"1:1","odds_1":"1.95","odds_X":"3.34","odds_2":"3.63"},{"league":"Czech Republic»Division 2","day":"20 Jul 2018","time":"15:00","game":"Usti nad Labem-Sokolov","results":"2:1","odds_1":"1.91","odds_X":"3.44","odds_2":"3.51"}]

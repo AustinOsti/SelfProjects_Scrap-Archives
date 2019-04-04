@@ -1,1 +1,0 @@
-[{"league":"Italy»Lega Pro C1/A","day":"01 Sep 2013","time":"18:30","game":"FeralpiSalo-Venezia","results":"2:0","odds_1":"2.35","odds_X":"3.02","odds_2":"2.88"},{"league":"Italy»Lega Pro C1/A","day":"01 Sep 2013","time":"18:30","game":"L.R. Vicenza-Pavia","results":"2:1","odds_1":"1.57","odds_X":"3.42","odds_2":"5.73"}]

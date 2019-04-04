@@ -1,1 +1,0 @@
-[{"league":"Malta»Summer Cup 2017","day":"01 Aug 2017","time":"16:30","game":"St. Andrews-Lija Athletic","results":"3:0","odds_1":"1.92","odds_X":"3.57","odds_2":"3.85"}]

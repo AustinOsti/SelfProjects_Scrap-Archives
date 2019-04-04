@@ -1,1 +1,0 @@
-[{"league":"Malta»Super Cup","day":"13 Dec 2018","time":"14:00","game":"Valletta-Balzan","results":"2:1","odds_1":"1.63","odds_X":"3.93","odds_2":"4.47"}]
