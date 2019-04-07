@@ -15,14 +15,18 @@ let retrieveFileNames = function(extractsFolder, fileNames) {
 			if (err) {
 				reject(err);
 			}
-			files.forEach(function(file) {
-				if(file.indexOf(".html")>-1) {
-					fileNames.push(file);
-				} else {
-					fileNamesAll.push(file);
-				}		
-			});
-			resolve(fileNames);			
+			if (files.length>0) {
+				files.forEach(function(file) {
+					if(file.indexOf(".html")>-1) {
+						fileNames.push(file);
+					} else {
+						fileNamesAll.push(file);
+					}		
+				});
+				resolve(fileNames);					
+			} else {
+				reject("No file(s) to extract");
+			}
 		});
 	});
 };

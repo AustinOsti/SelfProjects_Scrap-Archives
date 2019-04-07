@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "extract": "node archives_extract.js",
-    "store": "node archives_store.js"
+    "store": "node archives_store.js",
+	"bets": "node bets_extract.js",
+	"results": "node extract_results.js"	
   },
   "repository": {
     "type": "git",
